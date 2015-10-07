@@ -1,3 +1,5 @@
+http://habrahabr.ru/company/xakep/blog/254129/
+
 Parsing photos from Instagram and VK by geographic coordinates.
 
 Default Settings:
