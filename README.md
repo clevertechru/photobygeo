@@ -1,4 +1,5 @@
 http://habrahabr.ru/company/xakep/blog/254129/
+
 https://bitbucket.org/BetepokNoname/photobygeo/src
 
 Parsing photos from Instagram and VK by geographic coordinates.
